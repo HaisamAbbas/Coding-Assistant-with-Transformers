@@ -1,0 +1,11 @@
+torch
+matplotlib
+spacy
+torchtext
+pandas
+numpy
+seaborn
+scikit-learn
+Flask
+
+#-e .
